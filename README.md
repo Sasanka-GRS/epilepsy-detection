@@ -13,9 +13,13 @@ The data should be in a .mat format. The data must be split into 5 time regions,
 Subject_1.mat
 
 |_ r1 (N x T1 matrix)
+
 |_ r2 (N x T2 matrix)
+
 |_ r3 (N x T3 matrix)
+
 |_ r4 (N x T4 matrix)
+
 |_ r5 (N x T5 matrix)
 
 
