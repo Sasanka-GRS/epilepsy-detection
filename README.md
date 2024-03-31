@@ -11,15 +11,25 @@
 The data should be in a .mat format. The data must be split into 5 time regions, before epilepsy (r1), just before epilepsy (r2), epilepsy (r3), just after epilepsy (r4) and after epilepsy (r5). Thus, the data should have the following format
 
 Subject_1.mat
+
 |_ r1
+   
    |_ N x T1 matrix
-!_ r2
+
+|_ r2
+   
    |_ N x T2 matrix
+
 |_ r3
+   
    |_ N x T3 matrix
+
 |_ r4
+   
    |_ N x T4 matrix
+
 |_ r5
+   
    |_ N x T5 matrix
 
 T1, T2, T3, T4 and T5 are the duration (time-stamps) in the respective time regions, and N is the number of electrodes (nodes).
