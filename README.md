@@ -3,8 +3,9 @@
 ### Required packages
 
 1. MATLAB
-2. Network metrics toolbox
-3. YALMIP and MOSEK solvers
+2. Network metrics toolbox - http://strategic.mit.edu/downloads.php?page=matlab_networks
+3. YALMIP solver - https://yalmip.github.io/tutorial/installation/
+4. MOSEK solver - https://docs.mosek.com/latest/install/installation.html
 
 ### Data format
 
